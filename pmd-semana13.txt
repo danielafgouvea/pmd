@@ -1,0 +1,51 @@
+1.	COM BASE NO SEU PROJETO MULTIDISCIPLINAR:
+
+
+Vocês decidiram lançar uma versão simplificada antes de desenvolver uma versão mais completa. Essa abordagem permitirá testar as limitações da ideia no mercado e obter feedback exclusivo dos usuários sobre as funcionalidades mais importantes.
+
+ 
+
+2.	Em grupo, analisem e respondam às seguintes perguntas aplicadas ao  projeto multidisciplinar:
+
+a.	Qual seria a versão mais simples do seu projeto multidisciplinar, que ainda cumpre sua função principal?
+
+Exemplo: "No caso do aplicativo de teleconsulta, a versão mais simples poderia incluir apenas o agendamento de consultas e um canal de comunicação direta entre pacientes e profissionais."
+
+
+
+
+
+
+
+b.	Como essa versão poderia ajudar a validar a ideia sem incluir todas as funcionalidades desejadas?
+
+Exemplo: "Essa versão simplificada poderia ser utilizada para testar o alcance do público, permitindo que os usuários experimentem o agendamento e a comunicação, antes de implementar outras funcionalidades mais complexas."
+
+
+
+
+
+
+c.	Quais características essenciais devem ser apresentadas no projeto multidisciplinar para que a proposta seja útil para os usuários?
+
+Exemplo: "Características essenciais podem incluir uma interface intuitiva, um sistema de agendamento funcional e canais de comunicação claros para interação com os profissionais de saúde."
+
+
+
+
+
+d.	Quais funcionalidades do projeto multidisciplinar poderiam ser deixadas de fora na primeira versão, mas que poderiam ser adicionadas posteriormente?
+Exemplo: "Funcionalidades como histórico de consultas e avaliações de atendimento poderiam ser deixadas de fora inicialmente, mas poderiam ser incorporadas em versões futuras com base no feedback dos usuários."
+
+
+
+
+
+
+e.	Qual é a importância de lançar uma versão simplificada do projeto multidisciplinar antes de se comprometer com um produto final completo?
+
+Exemplo: "Lançar uma versão simplificada permite que a equipe colete feedback real dos usuários, identifique quais funcionalidades são mais valorizadas e ajuste o projeto conforme necessário, reduzindo o risco de desenvolver um produto que não atende às necessidades do público."
+
+
+
+
